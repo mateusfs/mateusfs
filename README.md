@@ -30,7 +30,7 @@ Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at CodeJob
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-232F3E?style=flat-square&logo=rabbitmq)
 ![JQuery](https://img.shields.io/badge/JQuery-232F3E?style=flat-square&logo=jquery)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00004e?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-232F3E?style=flat-square&logo=python)
 ![Jest](https://img.shields.io/badge/Jest-ff4d4d?style=flat-square&logo=jest)
 ![Html5](https://img.shields.io/badge/Html5-232F3E?style=flat-square&logo=Html5)
