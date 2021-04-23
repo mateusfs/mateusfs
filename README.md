@@ -11,7 +11,6 @@ Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at CodeJob
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-232F3E?style=flat-square&logo=redux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -19,7 +18,7 @@ Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at CodeJob
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-232F3E?style=flat-square&logo=laravel)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -33,7 +32,7 @@ Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at CodeJob
 ![JQuery](https://img.shields.io/badge/JQuery-232F3E?style=flat-square&logo=jquery)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-232F3E?style=flat-square&logo=python)
-![Jest](https://img.shields.io/badge/Jest-232F3E?style=flat-square&logo=jest)
+![Jest](https://img.shields.io/badge/Jest-ff4d4d?style=flat-square&logo=jest)
 ![Html5](https://img.shields.io/badge/Html5-232F3E?style=flat-square&logo=Html5)
 ![Prometheus](https://img.shields.io/badge/Prometheus-232F3E?style=flat-square&logo=prometheus)
 
