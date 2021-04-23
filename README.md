@@ -5,8 +5,7 @@ Hello, I'm Mateus Ferri Schmitz, Software Engineer, currently working at CodeJob
 [![Linkedin Badge](https://img.shields.io/badge/-mateusfs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusfs/)](https://www.linkedin.com/in/mateusfs/)
 [![Medium Badge](https://img.shields.io/badge/codementor-%40mateusfs-blue)](https://www.codementor.io/@mateusfs)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=40mateusfs)
-
-[![Portfolio - Mateus Ferri Schmitz](https://img.shields.io/badge/Mateus%20Ferri%20Schmitz-black?style=flat-square&logo=appveyor&link=https://mateusfs.portfoliobox.net/)](https://mateusfs.portfoliobox.net/)
+[![Mateus Ferri Schmitz](https://img.shields.io/website?style=flat-square&up_message=Mateus%20Ferri%20Schmitz&url=https%3A%2F%2Fshields.io&link=https://mateusfs.portfoliobox.net/)](https://mateusfs.portfoliobox.net/)
 
 ## ⚡ Technologies
 
